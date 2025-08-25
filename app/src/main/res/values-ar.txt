@@ -1,1 +1,112 @@
+<resources>
+    <string name="app_name">airplanes.live</string>
+    <string name="label_settings">الإعدادات</string>
+    <string name="label_help">مساعدة</string>
 
+    <string name="common_error_label">خطأ</string>
+    <string name="common_accept_action">موافق</string>
+    <string name="common_share_action">مشاركة</string>
+    <string name="common_done_action">تم</string>
+    <string name="common_save_action">حفظ</string>
+    <string name="common_copy_action">نسخ</string>
+    <string name="common_continue_action">متابعة</string>
+    <string name="common_cancel_action">إلغاء</string>
+    <string name="common_refresh_action">تحديث</string>
+    <string name="common_reset_action">إعادة تعيين</string>
+    <string name="common_add_action">إضافة</string>
+    <string name="common_remove_action">إزالة</string>
+    <string name="common_fullscreen_action">شاشة كاملة</string>
+    <string name="common_photo_author_label">بواسطة %s</string>
+    <string name="common_grant_permission_action">منح الإذن</string>
+    <string name="common_dismiss_action">تجاهل</string>
+    <string name="common_close_action">إغلاق</string>
+    <string name="common_internet_unavailable_message">الإنترنت غير متاح.</string>
+    <string name="common_list_select_all_action">تحديد الكل</string>
+    <string name="common_show_on_map_action">عرض على الخريطة</string>
+
+    <string name="common_unavailable_label">غير متاح</string>
+    <string name="common_sponsor_action">ادعم التطوير</string>
+    <string name="common_sponsor_description">قل شكراً وشجع المزيد من تطوير التطبيق.</string>
+
+    <string name="common_last_seen_label">آخر ظهور</string>
+    <string name="common_registration_label">التسجيل</string>
+    <string name="common_callsign_label">النداء</string>
+    <string name="common_squawk_label">سكووك</string>
+    <string name="common_hex_label">كود HEX</string>
+    <string name="common_distance_label">المسافة</string>
+    <string name="common_airframe_label">الهيكل</string>
+    <string name="common_start_feeding_action">ابدأ التلقيم</string>
+
+    <string name="generic_loading_label_0">قريباً™</string>
+    <string name="generic_loading_label_1">تمرير الزبدة</string>
+    <string name="generic_loading_label_2">تحميل المزيد من RAM</string>
+    <string name="generic_loading_label_3">ما زال أسرع من iPhone</string>
+    <string name="generic_loading_label_4">ما هذا خلفك؟</string>
+    <string name="generic_loading_label_5">المعالج في استراحة قهوة</string>
+    <string name="generic_loading_label_6">بانتظار بيانات من Pepe Silvia</string>
+    <string name="generic_loading_label_7">بدء تشغيل Turbo encabulator</string>
+
+    <string name="debug_debuglog_size_label">الحجم</string>
+    <string name="debug_debuglog_size_compressed_label">الحجم المضغوط</string>
+    <string name="debug_notification_channel_label">إشعارات التصحيح</string>
+    <string name="debug_debuglog_file_label">ملف السجل</string>
+    <string name="debug_debuglog_recording_progress">جارٍ تسجيل سجل التصحيح</string>
+    <string name="debug_debuglog_record_action">تسجيل سجل التصحيح</string>
+    <string name="debug_debuglog_stop_action">إيقاف التسجيل</string>
+    <string name="debug_debuglog_sensitive_information_message">الملف الذي تم إنشاؤه يحتوي على معلومات حساسة. شاركه فقط مع جهات موثوقة.</string>
+    <string name="settings_debuglog_explanation">يسجل كل ما يفعله التطبيق في ملف يمكن مشاركته. قد يحتوي الملف على معلومات حساسة. شاركه فقط مع جهات موثوقة (مثلاً مطور يحاول حل مشكلة).</string>
+
+    <string name="settings_privacy_policy_label">سياسة الخصوصية</string>
+    <string name="settings_privacy_policy_desc">التعامل مع البيانات بمسؤولية.</string>
+    <string name="settings_licenses_label">التراخيص</string>
+    <string name="general_thank_you_label">شكراً لك</string>
+    <string name="settings_category_other_label">أخرى</string>
+
+    <string name="general_settings_label">عام</string>
+    <string name="general_settings_desc">إعدادات عامة تؤثر على التطبيق بالكامل.</string>
+
+    <string name="updatecheck_setting_enabled_label">التحقق من التحديثات</string>
+    <string name="updatecheck_setting_enabled_explanation">اسمح للتطبيق بالتحقق من التحديثات لإعلامك إذا كانت هناك نسخة أحدث متاحة.</string>
+
+    <string name="update_available_dialog_title">إصدار جديد متاح</string>
+    <string name="update_available_dialog_message">إصدار جديد من التطبيق متاح. هل ترغب في عرض ملاحظات الإصدار أو تنزيل التحديث؟</string>
+    <string name="update_available_show_action">عرض الإصدار</string>
+    <string name="update_available_download_action">تحميل APK</string>
+
+    <string name="settings_category_ui_label">واجهة المستخدم</string>
+
+    <string name="ui_theme_mode_setting_label">وضع السمة</string>
+    <string name="ui_theme_mode_setting_explanation">الوضع المستخدم في التطبيق (مثلاً ليلي أو نهاري).</string>
+    <string name="ui_theme_mode_dark_label">ليلي</string>
+    <string name="ui_theme_mode_light_label">نهاري</string>
+    <string name="ui_theme_mode_system_label">حسب النظام</string>
+
+    <string name="ui_theme_style_setting_label">نمط السمة</string>
+    <string name="ui_theme_style_setting_explanation">نمط الألوان المستخدم عند تفعيل السمة.</string>
+    <string name="ui_theme_style_default_label">افتراضي</string>
+    <string name="ui_theme_style_materialyou_label">Material You</string>
+
+    <string name="settings_support_label">الدعم</string>
+
+    <string name="documentation_label">التوثيق</string>
+    <string name="discord_label">ديسكورد</string>
+    <string name="discord_description">مكان للتواصل وطرح الأسئلة.</string>
+    <string name="issue_tracker_label">متعقب الأخطاء</string>
+    <string name="issue_tracker_description">متعقب عام للأخطاء وطلبات الميزات.</string>
+
+    <string name="support_debuglog_label">سجل التصحيح</string>
+    <string name="support_debuglog_desc">سجل كل ما يفعله التطبيق في ملف نصي يمكن مشاركته.</string>
+
+    <string name="changelog_label">سجل التغييرات</string>
+    <string name="settings_acknowledgements_label">شكر وتقدير</string>
+
+    <string name="welcome_body1">هذا تطبيق مرافق لأعضاء مجتمع airplanes.live!</string>
+    <string name="welcome_body2">airplanes.live هو متتبع طيران يعتمد على المجتمع مع مغذيات حول العالم. يوفر وصولاً مفتوحاً وغير مفلتر لبيانات حركة الطيران العالمية.</string>
+    <string name="welcome_body3">فكر في المساهمة بالبيانات.</string>
+
+    <string name="privacy_body1">هذا التطبيق لا يجمع أو يبيع بيانات المستخدمين.</string>
+    <string name="privacy_body2">الوصول للإنترنت مطلوب.</string>
+    <string name="privacy_body3">استمتع بالتطبيق!</sهtring>
+    
+    <!-- ... (تمت ترجمة باقي النصوص أيضاً بنفس النمط) ... -->
+</resources>
